@@ -412,6 +412,7 @@ $("#newentry").on("click", function () {
     $("#submitbtn").hide();
     $("#refreshbutton").hide();
     $("#popup").hide();
+    $("#newentry").hide();
 });
 
 // Get the <span> element that closes the modal
@@ -423,6 +424,7 @@ span.onclick = function () {
     $("#submitbtn").show();
     $("#refreshbutton").show();
     $("#popup").show();
+    $("#newentry").show();
 }
 
 //MOOD E HABIT ESTÃO NO CALENDARIOS.JS PARA FACILITAR A ORGANIZAÇÃO
