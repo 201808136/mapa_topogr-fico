@@ -1078,6 +1078,7 @@ width: 90%;
   .container{
     transform: scale(0.95);
     margin-top: -120px;
+	left: 5%;
   }
 
   .weekdays{
@@ -1086,7 +1087,7 @@ width: 90%;
 
 #feel{
   margin-top: 130px;
-  margin-left: -460px;
+  left: 0%;
 }
 
   .prompts, .moods, .habits, .challenges{
@@ -1213,7 +1214,7 @@ width: 90%;
   #journalentries{
     width: 70%;
     height: 300px;
-    margin-top: -70px;
+    margin-top: -60px;
   }
 }
 
