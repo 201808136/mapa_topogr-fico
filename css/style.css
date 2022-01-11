@@ -494,11 +494,11 @@ grid-template-columns: auto auto;
 
 #gráficos{
   position: absolute; /* Stay in place */
-  padding-left: 530px;
-  padding-top: 200px;
-  font-size: 40px;
+  padding-left: 470px;
+  padding-top: 35px;
+  font-size: 30px;
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto;
   opacity: 0;
   }
   
@@ -509,7 +509,7 @@ grid-template-columns: auto auto;
   }
   
   #slp,#xx,#wk,#et{
-  padding: 60px;
+  padding: 27px;
   margin: 10px;
   }
   
@@ -721,13 +721,12 @@ opacity: 0.5;
   #gráficos{
     position: absolute; 
     padding-left: 360px;
-    padding-top: 130px;
+    padding-top: 20px;
     font-size: 25px;
-    grid-template-columns: auto;
     }
     
     #slp,#xx,#wk,#et{
-      padding: 20px;
+      padding: 14px;
       margin: 10px;
       }
 
@@ -964,7 +963,7 @@ left: 50%;
   font-size: 20px;
   grid-template-columns: auto auto auto auto;
   position: absolute;
-margin-top: 270px;
+margin-top: 370px;
 margin-left: -560px;
 left: 50%;
   }
@@ -1134,7 +1133,7 @@ width: 90%;
     }
 
     #gráficos{
-      margin-top: 220px;
+      margin-top: 320px;
    }
 
    #feel{
@@ -1247,7 +1246,7 @@ width: 90%;
 	}
 
   #gráficos{
-   margin-top: 150px;
+   margin-top: 270px;
 }
 
   #entry{
