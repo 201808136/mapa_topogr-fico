@@ -495,7 +495,7 @@ grid-template-columns: auto auto;
 #gráficos{
   position: absolute; /* Stay in place */
   padding-left: 470px;
-  padding-top: 35px;
+  padding-top: 165px;
   font-size: 30px;
   display: grid;
   grid-template-columns: auto;
@@ -721,7 +721,7 @@ opacity: 0.5;
   #gráficos{
     position: absolute; 
     padding-left: 360px;
-    padding-top: 20px;
+    padding-top: 110px;
     font-size: 25px;
     }
     
@@ -1390,3 +1390,4 @@ margin-left: 165px;
   
 }
 }
+
