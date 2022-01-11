@@ -368,6 +368,7 @@ $("#submitbtn").on("click", function () {
     $("#submitbtn").hide();
     $("#refreshbutton").hide();
     $("#popup").hide();
+    $("#newentry").hide();
 });
 
 //adicionar elemento ao array - feito da mesma forma que no daily challenge 
