@@ -963,7 +963,7 @@ left: 50%;
   font-size: 20px;
   grid-template-columns: auto auto auto auto;
   position: absolute;
-margin-top: 370px;
+margin-top: 300px;
 margin-left: -560px;
 left: 50%;
   }
@@ -1133,7 +1133,7 @@ width: 90%;
     }
 
     #gráficos{
-      margin-top: 320px;
+      margin-top: 260px;
    }
 
    #feel{
@@ -1246,7 +1246,7 @@ width: 90%;
 	}
 
   #gráficos{
-   margin-top: 270px;
+   margin-top: 190px;
 }
 
   #entry{
