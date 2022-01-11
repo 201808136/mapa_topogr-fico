@@ -1071,6 +1071,11 @@ margin-left: -20px;
 width: 90%;
 }
 
+/*Perfil*/
+#aboutme{
+width: 90%;
+}
+
 
 /*Diminuir altura*/
 @media screen and (max-height: 800px){
