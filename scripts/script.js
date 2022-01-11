@@ -404,6 +404,7 @@ function add_element_to_array() {
         $("#submitbtn").show();
         $("#refreshbutton").show();
         $("#popup").show();
+        $("#newentry").show();
     }
 }
 
@@ -412,8 +413,8 @@ $("#newentry").on("click", function () {
     modal.style.display = "block";
     $("#submitbtn").hide();
     $("#refreshbutton").hide();
-    $("#popup").hide();
     $("#newentry").hide();
+    $("#popup").hide();
 });
 
 // Get the <span> element that closes the modal
